@@ -1,0 +1,58 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #0d0d0d;
+  color: #fff;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #1a1a1a;
+  padding: 20px 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+header p {
+  margin: 10px 0 0;
+}
+
+section {
+  padding: 40px 0;
+}
+
+#about {
+  background-color: #333;
+}
+
+#projects {
+  background-color: #1a1a1a;
+}
+
+h2 {
+  color: #ffd700;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #1a1a1a;
+  padding: 10px 0;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+  font-size: 14px;
+  color: #777;
+}
